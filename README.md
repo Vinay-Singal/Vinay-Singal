@@ -20,10 +20,10 @@
 
 <p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" height="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" height="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" height="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" height="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" height="100" />
+  <!-- img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" height="100" / -->
+  <!--img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" height="100" /-->
+  <!--img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" height="100" /-->
+  <!--img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" height="100" /-->
 </p>
 
 
